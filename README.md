@@ -24,17 +24,17 @@ This repository contains all my **HTML revision code**. It includes various exam
     ```bash
     open index.html
 
-or simply drag and drop an HTML file into your browser.
+    or simply drag and drop an HTML file into your browser.
 
-4. Purpose
-    This repository is a collection of revision materials and practice exercises for learning HTML. Feel free to use it for:
+## Purpose
+This repository is a collection of revision materials and practice exercises for learning HTML. Feel free to use it for:
 
-    - Learning HTML basics.
-    - Practicing concepts.
-    - Serving as a quick reference guide.
+- Learning HTML basics.
+- Practicing concepts.
+- Serving as a quick reference guide.
 
-5. Contributing
-    Contributions are welcome! If you find any issues or want to add more examples, feel free to fork the repository and open a pull request.
+## Contributing
+Contributions are welcome! If you find any issues or want to add more examples, feel free to fork the repository and open a pull request.
 
-6. License
-    This project is licensed under the MIT License.
+## License
+This project is licensed under the MIT License.
